@@ -1,0 +1,7 @@
+RUN NAME: run_example
+
+planet: toi431b
+dtheta = 0.0005 deg
+RT factor = 0 / 1
+La factor = 0 / 1
+GeoF = 50

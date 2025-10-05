@@ -1,0 +1,6 @@
+effective stellar temperature = 4599 K
+planetary radius = 9620000.0 m
+stellar radius = 468700000.0 m
+gravity at the surface = 21.8 m/s^2
+distance between planet and star = 1071000000.0 m
+stellar directory : /data/HD85512

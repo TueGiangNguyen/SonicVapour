@@ -1,0 +1,6 @@
+effective stellar temperature = 5596 K
+planetary radius = 10970000.0 m
+stellar radius = 786800000.0 m
+gravity at the surface = 24.55 m/s^2
+distance between planet and star = 2691000000.0 m
+stellar directory : /data/solarspectrum
