@@ -62,7 +62,7 @@ def read_input(input_name,home):
                 dummystr = ': '
                 planet_name = dummyline.split(dummystr)[1]
                 planet_name = planet_name[0:-1]
-            match = regexp3.match(line)
+            match = regexp4.match(line)
             if match:
                 geof = float(match.group(1))
     runparams = {}
